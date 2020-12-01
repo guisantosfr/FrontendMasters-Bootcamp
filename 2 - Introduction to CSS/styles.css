@@ -1,0 +1,46 @@
+body{
+  text-align: center;
+  font-size: 1.6rem;
+  background-color: #27E6BC;
+}
+
+blockquote{
+  border: 2px solid #45FFD7;
+  font-size: 2rem;
+}
+
+h1{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+a{
+  text-decoration: none;
+}
+
+a:link{
+  color: #ca20ca;
+}
+
+a:visited{
+  color: #5f1bcc;
+}
+
+a:hover{
+  color: #c0d316;
+}
+
+footer{
+  color: #fff;
+}
+
+strong, em{
+  font-weight: bolder;
+}
+
+.first{
+  background-color: #4ebba3;
+}
